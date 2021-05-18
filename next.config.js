@@ -1,4 +1,4 @@
 module.exports = {
-    assetPrefix: 'decrypto'
+    assetPrefix: '/decrypto'
 }
   
